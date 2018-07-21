@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+
+title = "Grepoguide"
+theme = "learn"
+themesdir = "themes"
+
+[params]
+  editURL = "https://github.com/timothee-decoster/Grepoguide/edit/master/content/"
+  description = "Documentation for Grepolis"
+  author = "Timothée Decoster"
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
