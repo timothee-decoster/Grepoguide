@@ -1,5 +1,7 @@
 ---
-title: "deux"
+title: "Deux"
+draft: true
+weight: 3
 ---
 
-## deux
+# Seconde page
