@@ -1,7 +1,7 @@
 ---
 title: "Trois"
-draft: true
 weight: 4
+draft: true
 aliases: ["/trois/"]
 ---
 

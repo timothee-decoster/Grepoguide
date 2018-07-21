@@ -1,7 +1,9 @@
 baseURL = "/"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
-
+buildDrafts = true
+canonifyURLs = false
+uglyURLS = true
 title = "Grepoguide"
 theme = "learn"
 themesdir = "themes"
