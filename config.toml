@@ -7,6 +7,7 @@ theme = "learn"
 themesdir = "themes"
 
 [params]
+  themeVariant = "red"
   editURL = "https://github.com/timothee-decoster/Grepoguide/edit/master/content/"
   description = "Documentation for Grepolis"
   author = "Timothée Decoster"
