@@ -28,6 +28,7 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+    background: url(../images/grepolis_wallpaper.jpg) no-repeat fixed;
 }
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
@@ -102,3 +103,10 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+.div-text {
+    border-radius: 25px;
+    margin: 3% 0 3% 0;
+    padding: 10px;
+    background-color: #f9db9d;
+    background: url(../images/parchemin.jpg) repeat;
+}
