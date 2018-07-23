@@ -400,6 +400,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     }
 }
 #body .nav:hover {
+    opacity: 0.2;
     background: #F6F6F6;
 }
 #body .nav.nav-pref {
