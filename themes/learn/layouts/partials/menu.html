@@ -13,7 +13,7 @@
 
     <div class="highlightable">
     <ul class="topics">
-
+      <li><a href="{{.Site.BaseURL}}index.html">{{ T "summary-title"}}</a></li>
         {{if eq .Site.Params.ordersectionsby "title"}}  
           {{range .Site.Home.Sections.ByTitle}}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
